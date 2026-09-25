@@ -1,8 +1,7 @@
 #  hi i am bemnet-adnew
-### Dual-Degree Student: Accounting & Finance (AAU) | Computer Science (CPU)
+ Accounting & Finance (AAU) | Computer Science (CPU) graduate 
 
-I bridge the gap between financial logic and technical implementation. I am a detail-oriented analyst focused on Technical Product Ownership and Business Systems.
-
+I bridge the gap between financial logic and technical implementation. 
 ---
 
 ## 🚀 Key Projects & Experience
@@ -23,8 +22,8 @@ I bridge the gap between financial logic and technical implementation. I am a de
 ---
 
 ## 📈 Education
-* **Addis Ababa University (School of Commerce):** BA in Accounting & Finance (Expected 2018 E.C.)
-* **CPU College:** BSc in Computer Science (Expected 2018 E.C.)
+* **Addis Ababa University (School of Commerce):** BA in Accounting & Finance
+* **CPU College:** BSc in Computer Science
 
 ---
 
