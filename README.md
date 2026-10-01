@@ -1,4 +1,4 @@
-#  hi i am bemnet-adnew
+#  Hi I am Bemnet-Adnew
  Accounting & Finance (AAU) | Computer Science (CPU) graduate 
 
 I bridge the gap between financial logic and technical implementation. 
